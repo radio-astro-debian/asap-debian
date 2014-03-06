@@ -1,0 +1,9 @@
+Debian files for nasap
+----------------------
+
+Modified debian package files for the ATNF Spectral-line Analysis Package.
+
+process and analyse spectral-line data from (ATNF) single-dish telescopes.
+
+https://svn.cv.nrao.edu/svn/casa/branches/release-4_2_0/asap/
+

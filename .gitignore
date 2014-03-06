@@ -1,0 +1,6 @@
+*.debhelper.log
+*.postinst
+*.postinst.debhelper
+*.prerm.debhelper
+*.substvars
+python-asap/
